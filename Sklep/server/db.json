@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "name": "prowadzacy", "haslo": "arbuz", "role": "admin" },
+    { "name": "gruby", "haslo": "123", "role": "user" }
+  ],
+  "opinions": [],
+  "orders": [],
+  "refreshTokens": []
+}
