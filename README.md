@@ -16,7 +16,6 @@ A fully functional application developed as an academic project. The system cons
 * **Node.js** – JavaScript runtime environment.
 * **Express** – Web framework for the server.
 * **JSON Web Token (JWT)** – Secure authentication (Access & Refresh Token logic).
-* **CORS** – Cross-Origin Resource Sharing management.
 * **FS (File System)** – Handling a simple JSON-based database.
 
 ### Database
