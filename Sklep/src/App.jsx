@@ -56,10 +56,8 @@ function App() {
       return JSON.parse(savedUsers);
     } else {
       return [
-        { name: "gruby", haslo: "123" },
-        { name: "krisa", haslo: "123" },
-        { name: "lysy", haslo: "labodega" },
-        { name: "prowadzacy", haslo: "arbuz" }, 
+        { name: "test", haslo: "123" },
+        { name: "prowadzacy", haslo: "arbuz123" }, 
       ];
     }
   });
